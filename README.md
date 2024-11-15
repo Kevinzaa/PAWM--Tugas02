@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pengembangan Aplikasi Web dan Mobile - Tugas 02
 
-## Getting Started
+Milestone 2 - Melanjutkan front end dan back end web untuk media pembelajaran interaktif mata kuliah TPB ITB
 
-First, run the development server:
+## Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Proyek ini merupakan perancangan front end dan back end dari sebuah web media pembelajaran interaktif. Dilakukan penambahan atau membuat ulang fitur-fitur baru pada Virtual Lab dengan menerapkan server-side scripting untuk memperluas fungsionalitas. Fitur yang Wajib ditambahkan adalah autentikasi pengguna dan penyimpanan state pengguna terautentikasi.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Link Project
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+https://pawm-tugas02-18222072.vercel.app
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Authors
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Muhammad Kevinza Faiz - 18222072
